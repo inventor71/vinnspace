@@ -59,33 +59,24 @@ plugins:
 
 author:
   name   : "Vinn Park"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD candidate in POSTECH, interested in AI, Computer Arch., VLSI, etc."
+  avatar : "/assets/images/profile_1.jpg"
+  bio    : "PhD candidate in Seoul National University, Korea. Interested in AI, Computer Arch., VLSI, etc."
   links:
-    - label: "Website"
+    - label: "Lab Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://vlsi.snu.ac.kr"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/"
+    #- label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/"
+    #- label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
+      #url: "https://instagram.com/"
 
 defaults:
   # _posts
