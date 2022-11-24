@@ -1,12 +1,9 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# VLSI full-stack design
+- skill: VLSI full-stack design
+  description: I have hands-on experience on designing several mixed-signal prototype chip as a lead designer for tape-out. I am used to HDLs (verilog, system-verilog, scala) and various VLSI tools (Design Compiler, IC Compiler, verification tools).
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Server Management
+- skill: Server Management
+  description: I voluntarily work as a maintainer/admin for multiple CPU/GPU/cloud/license servers in our office.
