@@ -23,7 +23,7 @@ resume_contact_address:         "VLSI Lab., Seoul National University, Seoul, So
 resume_header_contact_info:     "VLSI Lab., Seoul National University, Seoul, South Korea • +82.I0.2709.78I8 • jihoonpark@snu.ac.kr"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a full-time student at Seoul National University, pursuing a Ph.D degree in the electrical and computer engineering. My current research interests include efficient deep learning algorithm/hardware and in-memory computing hardware at a system & application-level perspective. I'm also an amateur vim, linux enthusiast. </p>"
+resume_header_intro: "<p>I am a full-time student at VLSI Lab., SNU, currently pursuing a Ph.D degree in the electrical and computer engineering. My current research interests include efficient deep learning algorithm/hardware and in-memory computing hardware at a system & application-level perspective. I'm also an amateur VIM & Linux enthusiast. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -33,22 +33,26 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_experience:      false
+resume_section_education:       false
+resume_section_projects:        false
+resume_section_skills:          false
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/inventor71/"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/jihoon-park-9b57a11a5/"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://vlsi.snu.ac.kr"
+  #resume_medium_url:            "https://medium.com/@jglovier"
   resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://joelglovier.com"
