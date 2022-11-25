@@ -68,6 +68,22 @@
       <!-- end Experience -->
       {% endif %}
 
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+
+        {% for pub in site.data.publications %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/PublicationIssue">
+          <p class="resume-item-details" itemprop="description">{{ pub.item }}</p>
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
 
       {% if site.resume_section_education %}
       <!-- begin Education -->

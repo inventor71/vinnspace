@@ -31,7 +31,7 @@
 
   .header-name {
     @include sans;
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 900;
     text-align: center;
     letter-spacing: -.15rem;
@@ -56,7 +56,7 @@
     .header-title {
       @include sans;
       font-weight: 300;
-      font-size: 1.75rem;
+      font-size: 1.5rem;
       line-height: 2rem;
       letter-spacing: -.05rem;
       text-align: center;
@@ -114,7 +114,7 @@
   text-decoration: none;
   text-align: center;
   display: block;
-  margin: 1.5rem auto;
+  margin: 1.25rem auto;
   width: 220px;
   font-size: 1.375rem;
   @include sans_light;
@@ -135,12 +135,12 @@
 .content-section {
   margin: 0 0 3rem;
 
-  .resume-item { margin-bottom: 2rem; }
+  .resume-item { margin-bottom: 1.5rem; }
 
   .resume-item-title {
     @include sans_bold;
     margin: 0 0 .75rem;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     letter-spacing: -.05rem;
     line-height: 1;
   }
@@ -151,7 +151,7 @@
     line-height: 1;
 
     &.award-title {
-      font-size: 1rem;
+      font-size: 0.9rem;
     }
   }
 
@@ -171,7 +171,7 @@
     }
   }
 
-  .resume-item-copy { margin: .75rem 0 0; }
+  .resume-item-copy { margin: .7rem 0 0; }
 }
 
 // footer styles
