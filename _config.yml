@@ -23,7 +23,7 @@ resume_contact_address:         "VLSI Lab., Seoul National University, Seoul, So
 resume_header_contact_info:     "VLSI Lab., Seoul National University, Seoul, South Korea • +82.I0.2709.78I8 • jihoonpark@snu.ac.kr"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a full-time student at <a href='https://vlsi.snu.ac.kr' style='color:grey'> VLSI Lab.</a>, SNU, currently pursuing a Ph.D degree in the electrical and computer engineering advised by <a href='https://ee.snu.ac.kr/en/faculty/professor?mode=view&profid=p872' style='color:grey'> Prof. Jae-Joon Kim</a>. My current research interests include <i>efficient deep learning</i> (both SW and HW) and <i>in-memory computing</i> hardware at a system & application-level perspective. I'm also an amateur VIM & Linux enthusiast. </p>"
+resume_header_intro: "<p>I am a full-time student at <a href='https://vlsi.snu.ac.kr' style='color:grey'> VLSI Lab.</a>, SNU, currently pursuing a Ph.D degree in the electrical and computer engineering advised by <a href='https://ee.snu.ac.kr/en/faculty/professor?mode=view&profid=p872' style='color:grey'> Prof. Jae-Joon Kim</a>. My current research interests include <i>efficient deep learning</i> (both SW and HW) and <i>in-memory computing</i> hardware at a system & application-level perspective. I'm also an amateur VIM & Linux enthusiast. <br>Contact: <a href='jihoonpark@snu.ac.kr' style='color:grey'>jihoonpark@snu.ac.kr</a></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
