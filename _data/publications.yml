@@ -1,4 +1,7 @@
 # Publications
+- item: <b>J. Park</b>, J. Choe, D. Kim, J.J. Kim, “COMPASS: A Compiler Framework for Resource-Constrained Crossbar-Array Based In-Memory Deep Learning Accelerators,” DATE 2025.
+- item: E. Kim, H. Oh, J. Lee, <b>J. Park</b>, M. Kwon, J.J. Kim, “A 10T2C Capacitive SRAM-based Computing-In-Memory Macro with Array-Embedded DAC and Shift-and-Add Functions,” CICC 2024.
+- item: Y. Kim, J. Jang, J. Lee, <b>J. Park<\b>, J.J. Kim, B. Kim, SJ. Kwon, D. Lee, “Winning both the accuracy of floating point activation and the simplicity of integer arithmetic,” ICLR 2023.
 - item: H. Oh, H. Kim, D. Ahn, <b>J. Park</b>, Y. Kim, I. Lee, J.J. Kim, “Energy-Efficient Charge sharing-Based 8T2C SRAM in-Memory Accelerator for Binary Neural Networks in 28nm CMOS,” A-SSCC 2021.
 - item: H. Oh, H. Kim, N. Kang, Y. Kim, <b>J. Park</b> and J.J. Kim, “Single RRAM Cell-Based In-Memory Accelerator Architecture for Binary Neural Networks,” AICAS 2021.
 - item: H. Kim, <b>J. Park</b>, C. Lee, J.J. Kim, “Improving Accuracy of Binary Neural Networks using Unbalanced Activation Distribution“, CVPR 2021.
