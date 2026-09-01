@@ -144,8 +144,10 @@
     letter-spacing: -.05rem;
     line-height: 1;
 
-    // chip names run long and wrap, so they need less weight on the page
+    // chip names run long and wrap, so they need less weight on the page;
+    // serif keeps them in the same voice as the publication entries
     &.chip-title {
+      @include serif_bold;
       font-size: 1rem;
       letter-spacing: -.02rem;
       line-height: 1.25;
