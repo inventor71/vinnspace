@@ -2,7 +2,7 @@
 
 # VLSI full-stack design
 - skill: Full-stack VLSI Design
-  description: I have hands-on experience on designing several mixed-signal prototype chip as a lead designer for tape-out. I am used to HDLs (verilog, system-verilog, chisel) and various VLSI tools including both front and back-end (Design Compiler, IC Compiler, verification tools).
+  description: Fluent in HDLs (Verilog, SystemVerilog, Chisel) and the full front-to-back EDA flow (Design Compiler, IC Compiler, functional and formal verification tools), from RTL design through physical implementation and silicon bring-up.
 
 # Server Management
 - skill: Server Management
