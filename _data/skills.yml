@@ -4,6 +4,10 @@
 - skill: Full-stack VLSI Design
   description: Fluent in HDLs (Verilog, SystemVerilog, Chisel) and the full front-to-back EDA flow (Design Compiler, IC Compiler, functional and formal verification tools), from RTL design through physical implementation and silicon bring-up.
 
+# Deep learning compiler stack
+- skill: Deep Learning Compiler Stack
+  description: Customized the LLVM and TVM compiler stacks to add instruction support for the accelerator chips I taped out, closing the loop from a custom ISA extension to deep learning workloads running on silicon.
+
 # Server Management
 - skill: Server Management
   description: I voluntarily work as a maintainer/admin for multiple CPU/GPU/cloud/license servers in our office.
