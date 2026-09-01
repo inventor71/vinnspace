@@ -95,7 +95,7 @@
         {% for chip in site.data.tapeouts %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{{ chip.chip }}</h3>
+          <h3 class="resume-item-title chip-title" itemprop="name">{{ chip.chip }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ chip.node }} &bull; {{ chip.role }} &bull; {{ chip.duration }}</h4>
           <p class="resume-item-copy">{% if chip.status %}{{ chip.status }}.{% endif %}{% if chip.description %} {{ chip.description }}{% endif %}</p>
         </div><!-- end of resume-item -->

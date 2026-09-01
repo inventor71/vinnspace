@@ -143,6 +143,14 @@
     font-size: 1.15rem;
     letter-spacing: -.05rem;
     line-height: 1;
+
+    // chip names run long and wrap, so they need less weight on the page
+    &.chip-title {
+      font-size: 1rem;
+      letter-spacing: -.02rem;
+      line-height: 1.25;
+      margin: 0 0 .4rem;
+    }
   }
 
   .resume-item-details {
@@ -218,6 +226,11 @@
     .resume-item-title {
       font-size: 16px;
       line-height: .7em;
+
+      &.chip-title {
+        font-size: 13px;
+        line-height: 1.1em;
+      }
     }
 
     .resume-item-details {
