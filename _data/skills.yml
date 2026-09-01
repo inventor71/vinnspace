@@ -2,7 +2,7 @@
 
 # VLSI full-stack design
 - skill: Full-stack VLSI Design
-  description: Fluent in HDLs (Verilog, SystemVerilog, Chisel) and the full front-to-back EDA flow (Design Compiler, IC Compiler, PrimeSuite, functional and formal verification tools), from RTL design through physical implementation and silicon bring-up. Also experienced with mixed-signal design flows, including custom IP characterization with PrimeLib.
+  description: Fluent in HDLs (Verilog, SystemVerilog, Chisel) and the full front-to-back EDA flow (Design Compiler, IC Compiler, PrimeTime, functional and formal verification tools), from RTL design through physical implementation and silicon bring-up. Also experienced with mixed-signal design flows, including custom IP characterization with PrimeLib.
 
 # Deep learning compiler stack
 - skill: Deep Learning Compiler Stack
