@@ -1,0 +1,30 @@
+# Chip tape-outs
+# Reverse-chronological. Keep performance numbers out of unpublished entries.
+
+- chip: Programmable and scalable analog/digital hybrid neural network processor for edge applications
+  node: 28nm CMOS
+  role: Lead designer (architecture, bring-up, software stack)
+  duration: Tape-out 2024
+  status: Silicon-verified
+  description: Manuscript in preparation.
+
+- chip: Shared-microexponent-aware configurable analog compute-in-memory macro
+  node: 28nm CMOS
+  role: Advisory role (specification review, design verification)
+  duration: Tape-out 2024
+  status: Published
+  description: Published at ISLPED 2026.
+
+- chip: In-memory SRAM integration with the open-source PULP microprocessor
+  node: 28nm CMOS
+  role: Lead designer (architecture, RTL-to-GDS, bring-up)
+  duration: Tape-out 2022
+  status: Silicon-verified
+  description: Lab research project.
+
+- chip: Binary convolution-based in-memory speech recognition processor
+  node: 28nm CMOS
+  role: Lead designer (architecture, RTL-to-GDS, bring-up)
+  duration: Tape-out 2020, revision 2021
+  status: Silicon-verified
+  description: Lab research project.

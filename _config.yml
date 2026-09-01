@@ -35,6 +35,7 @@ resume_header_intro: "<p>I am a full-time student at <a href='https://vlsi.snu.a
 # comment out to hide
 resume_section_experience:      false
 resume_section_publications:    true
+resume_section_tapeouts:        true
 resume_section_education:       true
 resume_section_projects:        false
 resume_section_skills:          true

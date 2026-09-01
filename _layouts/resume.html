@@ -85,6 +85,26 @@
       <!-- end Publications -->
       {% endif %}
 
+      {% if site.resume_section_tapeouts %}
+      <!-- begin Chip Tape-outs -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Chip Tape-outs</h2>
+        </header>
+
+        {% for chip in site.data.tapeouts %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <h3 class="resume-item-title" itemprop="name">{{ chip.chip }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ chip.node }} &bull; {{ chip.role }} &bull; {{ chip.duration }}</h4>
+          <p class="resume-item-copy">{% if chip.status %}{{ chip.status }}. {% endif %}{{ chip.description }}</p>
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Chip Tape-outs -->
+      {% endif %}
+
       {% if site.resume_section_education %}
       <!-- begin Education -->
       <section class="content-section">
