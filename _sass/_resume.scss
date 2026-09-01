@@ -138,16 +138,14 @@
   .resume-item { margin-bottom: 1.5rem; }
 
   .resume-item-title {
-    @include sans_bold;
+    @include serif_bold;
     margin: 0 0 .75rem;
     font-size: 1.15rem;
     letter-spacing: -.05rem;
     line-height: 1;
 
-    // chip names run long and wrap, so they need less weight on the page;
-    // serif keeps them in the same voice as the publication entries
+    // chip names run long and wrap, so they need less weight on the page
     &.chip-title {
-      @include serif_bold;
       font-size: 1rem;
       letter-spacing: -.02rem;
       line-height: 1.25;
