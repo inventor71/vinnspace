@@ -1,5 +1,6 @@
 # Publications
 - item: '<b>J. Park</b>, J. Lee, H. Lee, J. Kim, J. Kim, J.J. Kim, "OzCore: An Ozaki-Scheme-II-Based GEMM Architecture for Unified Integer and Floating-Point Computation," MICRO 2026.'
+- item: 'J. Jang, <b>J. Park</b>, J.J. Kim, "Reconfigurable FP/INT×INT GEMM Accelerator With a Unified MXU," ISOCC 2026.'
 - item: 'W. Han, D. Kim, <b>J. Park</b>, J. Lee, S. Choi, W. Han, J.J. Kim, "MECA-CiM: A Shared-MicroExponent-aware Configurable Analog Compute-in-Memory Macro for Efficient Inference," ISLPED 2026.'
 - item: '<b>J. Park</b><sup>*</sup>, J. Choe<sup>*</sup>, D. Kim, J.J. Kim, "COMPASS: A Compiler Framework for Resource-Constrained Crossbar-Array Based In-Memory Deep Learning Accelerators," DATE 2025. (<sup>*</sup>Equal contribution)'
 - item: 'E. Kim, H. Oh, J. Lee, <b>J. Park</b>, M. Kwon, J.J. Kim, "A 10T2C Capacitive SRAM-based Computing-In-Memory Macro with Array-Embedded DAC and Shift-and-Add Functions," CICC 2024.'
