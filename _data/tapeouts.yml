@@ -7,7 +7,7 @@
   role: Lead designer (architecture, bring-up, software stack)
   duration: Tape-out 2024
   status: Silicon-verified
-  description: Manuscript in preparation.
+  description: Manuscript under review.
 
 - chip: Shared-microexponent-aware configurable analog compute-in-memory macro
   node: 28nm CMOS
